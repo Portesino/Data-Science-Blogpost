@@ -27,7 +27,7 @@ The dataset is streamed directly from source via URL.
 ---
 
 ## 3. File Descriptions
-* **`StackOverflow_Analysis.ipynb`**: The core executable script containing the complete technical implementation of the CRISP-DM process, including initial data exploration (EDA), rigorous data cleaning (outlier removal via quantiles, type casting), model training, and evaluation.
+* **`DataScienceBlogNB.ipynb`**: The core executable script containing the complete technical implementation of the CRISP-DM process, including initial data exploration (EDA), rigorous data cleaning (outlier removal via quantiles, type casting), model training, and evaluation.
 * **`README.md`**: This file, providing a high-level technical overview and summary of findings.
 
 ---
@@ -46,6 +46,7 @@ The dataset is streamed directly from source via URL.
 * **Scenario Prediction:** For a simulated developer based in Germany with 5 years of professional experience working fully remote, the model predicts a fair market salary of **$76,751.68 USD**.
 
 ---
+You can read the full, non-technical blog post here: https://medium.com/@pascal_28740/code-kohle-homeoffice-was-bestimmt-das-gehalt-in-der-tech-welt-wirklich-4b395d0c031a
 
 ## 5. Licensing, Authors, & Acknowledgements
 * **Author:** Pascal Porteset
